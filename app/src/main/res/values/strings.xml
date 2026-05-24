@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SensorDash</string>
+    <string name="app_title">SensorDash</string>
+    <string name="btn_start_accel">Start Accel</string>
+    <string name="btn_stop_accel">Stop Accel</string>
+    <string name="axis_x_simple">X:</string>
+    <string name="axis_y_simple">Y:</string>
+    <string name="axis_z_simple">Z:</string>
+    <string name="label_x">%1$.2f m/s²</string>
+    <string name="label_y">%1$.2f m/s²</string>
+    <string name="label_z">%1$.2f m/s²</string>
+    <string name="initial_x">0.00 m/s²</string>
+    <string name="initial_y">0.00 m/s²</string>
+    <string name="initial_z">0.00 m/s²</string>
+</resources>
